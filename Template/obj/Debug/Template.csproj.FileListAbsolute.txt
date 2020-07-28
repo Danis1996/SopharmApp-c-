@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Template\bin\Debug\Template.exe.config
+C:\Users\User\source\repos\Template\bin\Debug\Template.exe
+C:\Users\User\source\repos\Template\bin\Debug\Template.pdb
+C:\Users\User\source\repos\Template\obj\Debug\Template.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Template\obj\Debug\Template.Form1.resources
+C:\Users\User\source\repos\Template\obj\Debug\Template.Properties.Resources.resources
+C:\Users\User\source\repos\Template\obj\Debug\Template.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Template\obj\Debug\Template.exe
+C:\Users\User\source\repos\Template\obj\Debug\Template.pdb
+C:\Users\User\source\repos\Template\obj\Debug\Template.ComParMois.resources
